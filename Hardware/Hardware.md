@@ -76,3 +76,5 @@ lshw
 
 ## Vídeo de Utilización
 <https://youtu.be/uKw5-C3exFA>
+## Descargar Script
+<https://drive.google.com/u/1/uc?export=download&confirm=lVO0&id=1Yh0711ieIXOHDZSWnvAzI4nHJrIj-gyU>
