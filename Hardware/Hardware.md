@@ -43,3 +43,34 @@ Encabezado
 ComprobarRoot
 lshw
 ```
+
+## Script Completo
+```
+#!/bin/bash
+#Definicion de Variables
+
+#Definición de Funciones
+Encabezado ()
+{
+    clear
+    echo "___________________________________________"
+    echo ""
+    echo "         Hardware del Dispositivo"
+    echo "___________________________________________"
+    echo ""
+}
+ComprobarRoot ()
+{
+    if [ $(whoami) != "root" ]
+    then
+        echo "No eres el root"
+        exit 1
+    fi
+}
+#Bloque Principal
+clear
+Encabezado
+ComprobarRoot
+lshw
+```
+
