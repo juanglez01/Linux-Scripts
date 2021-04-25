@@ -36,3 +36,10 @@ En las funciones del Script he incorporado dos:
     <li>ComprobarRoot: Para que el script al ejecutarlo sí o sí tenga que ejecutarse como root para recibir los datos.</li>
 </ul>
     
+## Bloque Principal
+```
+clear
+Encabezado
+ComprobarRoot
+lshw
+```
