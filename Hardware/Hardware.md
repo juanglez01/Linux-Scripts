@@ -29,7 +29,7 @@ ComprobarRoot ()
 ```
 En las funciones del Script he incorporado dos:
 <ul>
-    <li>-Encabezado: Para presentar el script.</li>
-    <li>-ComprobarRoot: Para que el script al ejecutarlo sí o sí tenga que ejecutarse como root para recibir los datos.</li>
+    <li>Encabezado: Para presentar el script.</li>
+    <li>ComprobarRoot: Para que el script al ejecutarlo sí o sí tenga que ejecutarse como root para recibir los datos.</li>
 </ul>
     
