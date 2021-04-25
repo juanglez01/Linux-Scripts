@@ -8,3 +8,20 @@ Para poder realizar este Script. lo primero que tenemos que hacer es con la herr
 # Script
 
 ## Funciones
+Encabezado ()
+{
+    clear
+    echo "___________________________________________"
+    echo ""
+    echo "         Hardware del Dispositivo"
+    echo "___________________________________________"
+    echo ""
+}
+ComprobarRoot ()
+{
+    if [ $(whoami) != "root" ]
+    then
+        echo "No eres el root"
+        exit 1
+    fi
+}
