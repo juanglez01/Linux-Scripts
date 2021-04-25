@@ -75,4 +75,4 @@ lshw
 ```
 
 ## Vídeo de Utilización
-<https://github.com/juanglez01/Linux-Scripts/blob/24cadc94a7c90c80d752c49a8a20cc81e6fc1edf/Hardware/2021-04-25%2013-34-25_Trim.mp4>
+<https://youtu.be/1rWRDAWpUSk>
