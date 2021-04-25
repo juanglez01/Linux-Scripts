@@ -8,6 +8,7 @@ Para poder realizar este Script. lo primero que tenemos que hacer es con la herr
 # Script
 
 ## Funciones
+```
 Encabezado ()
 {
     clear
@@ -25,3 +26,4 @@ ComprobarRoot ()
         exit 1
     fi
 }
+```
