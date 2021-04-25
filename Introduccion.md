@@ -1,0 +1,1 @@
+<p>La idea de este proyecto es ir publicando en este repositorio Scripts interesantes para administradores de Linux como también para usuarios curiosos.</p> Intentaré que todos los que suban sean útiles y eficaces.
